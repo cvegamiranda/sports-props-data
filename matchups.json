@@ -1,85 +1,7 @@
 {
   "source": "ESPN public unofficial scoreboards",
-  "updated_at": "2026-10-22T22:54:57.559410+00:00",
+  "updated_at": "2026-10-22T23:53:20.340006+00:00",
   "upcoming": [
-    {
-      "sport": "NCAAF",
-      "team_id": "2026",
-      "team_name": "App State Mountaineers",
-      "team_abbr": "APP",
-      "opponent_id": "256",
-      "opponent_name": "James Madison Dukes",
-      "opponent_abbr": "JMU",
-      "date": "2026-10-22T23:00Z",
-      "venue": "home",
-      "event_id": "401869845",
-      "source": "ESPN NCAAF scoreboard (unofficial)"
-    },
-    {
-      "sport": "NCAAF",
-      "team_id": "2335",
-      "team_name": "Liberty Flames",
-      "team_abbr": "LIB",
-      "opponent_id": "338",
-      "opponent_name": "Kennesaw State Owls",
-      "opponent_abbr": "KENN",
-      "date": "2026-10-22T23:00Z",
-      "venue": "away",
-      "event_id": "401871056",
-      "source": "ESPN NCAAF scoreboard (unofficial)"
-    },
-    {
-      "sport": "NCAAF",
-      "team_id": "256",
-      "team_name": "James Madison Dukes",
-      "team_abbr": "JMU",
-      "opponent_id": "2026",
-      "opponent_name": "App State Mountaineers",
-      "opponent_abbr": "APP",
-      "date": "2026-10-22T23:00Z",
-      "venue": "away",
-      "event_id": "401869845",
-      "source": "ESPN NCAAF scoreboard (unofficial)"
-    },
-    {
-      "sport": "NCAAF",
-      "team_id": "338",
-      "team_name": "Kennesaw State Owls",
-      "team_abbr": "KENN",
-      "opponent_id": "2335",
-      "opponent_name": "Liberty Flames",
-      "opponent_abbr": "LIB",
-      "date": "2026-10-22T23:00Z",
-      "venue": "home",
-      "event_id": "401871056",
-      "source": "ESPN NCAAF scoreboard (unofficial)"
-    },
-    {
-      "sport": "NCAAF",
-      "team_id": "151",
-      "team_name": "East Carolina Pirates",
-      "team_abbr": "ECU",
-      "opponent_id": "235",
-      "opponent_name": "Memphis Tigers",
-      "opponent_abbr": "MEM",
-      "date": "2026-10-22T23:30Z",
-      "venue": "away",
-      "event_id": "401862807",
-      "source": "ESPN NCAAF scoreboard (unofficial)"
-    },
-    {
-      "sport": "NCAAF",
-      "team_id": "235",
-      "team_name": "Memphis Tigers",
-      "team_abbr": "MEM",
-      "opponent_id": "151",
-      "opponent_name": "East Carolina Pirates",
-      "opponent_abbr": "ECU",
-      "date": "2026-10-22T23:30Z",
-      "venue": "home",
-      "event_id": "401862807",
-      "source": "ESPN NCAAF scoreboard (unofficial)"
-    },
     {
       "sport": "NFL",
       "team_id": "17",
@@ -1993,6 +1915,19 @@
     },
     {
       "sport": "NCAAF",
+      "team_id": "338",
+      "team_name": "Kennesaw State Owls",
+      "team_abbr": "KENN",
+      "opponent_id": "2393",
+      "opponent_name": "Middle Tennessee Blue Raiders",
+      "opponent_abbr": "MTSU",
+      "date": "2026-10-28T23:00Z",
+      "venue": "away",
+      "event_id": "401871058",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
       "team_id": "166",
       "team_name": "New Mexico State Aggies",
       "team_abbr": "NMSU",
@@ -2015,6 +1950,19 @@
       "date": "2026-10-29T00:00Z",
       "venue": "away",
       "event_id": "401871057",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
+      "team_id": "256",
+      "team_name": "James Madison Dukes",
+      "team_abbr": "JMU",
+      "opponent_id": "2653",
+      "opponent_name": "Troy Trojans",
+      "opponent_abbr": "TROY",
+      "date": "2026-10-29T23:30Z",
+      "venue": "home",
+      "event_id": "401869963",
       "source": "ESPN NCAAF scoreboard (unofficial)"
     },
     {
@@ -2136,6 +2084,19 @@
     },
     {
       "sport": "NCAAF",
+      "team_id": "151",
+      "team_name": "East Carolina Pirates",
+      "team_abbr": "ECU",
+      "opponent_id": "218",
+      "opponent_name": "Temple Owls",
+      "opponent_abbr": "TEM",
+      "date": "2026-10-31T19:00Z",
+      "venue": "home",
+      "event_id": "401862815",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
       "team_id": "218",
       "team_name": "Temple Owls",
       "team_abbr": "TEM",
@@ -2183,6 +2144,19 @@
       "opponent_abbr": "LIB",
       "date": "2026-10-31T19:30Z",
       "venue": "away",
+      "event_id": "401871059",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
+      "team_id": "2335",
+      "team_name": "Liberty Flames",
+      "team_abbr": "LIB",
+      "opponent_id": "2229",
+      "opponent_name": "Florida International Panthers",
+      "opponent_abbr": "FIU",
+      "date": "2026-10-31T19:30Z",
+      "venue": "home",
       "event_id": "401871059",
       "source": "ESPN NCAAF scoreboard (unofficial)"
     },
@@ -2236,6 +2210,19 @@
       "date": "2026-10-31T19:45Z",
       "venue": "home",
       "event_id": "401858284",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
+      "team_id": "2026",
+      "team_name": "App State Mountaineers",
+      "team_abbr": "APP",
+      "opponent_id": "290",
+      "opponent_name": "Georgia Southern Eagles",
+      "opponent_abbr": "GASO",
+      "date": "2026-10-31T22:30Z",
+      "venue": "away",
+      "event_id": "401869846",
       "source": "ESPN NCAAF scoreboard (unofficial)"
     },
     {
@@ -2314,6 +2301,19 @@
       "date": "2026-11-01T00:00Z",
       "venue": "home",
       "event_id": "401858504",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
+      "team_id": "235",
+      "team_name": "Memphis Tigers",
+      "team_abbr": "MEM",
+      "opponent_id": "349",
+      "opponent_name": "Army Black Knights",
+      "opponent_abbr": "ARMY",
+      "date": "2026-11-01T00:00Z",
+      "venue": "home",
+      "event_id": "401862814",
       "source": "ESPN NCAAF scoreboard (unofficial)"
     },
     {
