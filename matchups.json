@@ -1,6 +1,6 @@
 {
   "source": "ESPN public unofficial scoreboards",
-  "updated_at": "2026-10-22T11:57:40.969478+00:00",
+  "updated_at": "2026-10-22T13:14:04.192087+00:00",
   "upcoming": [
     {
       "sport": "NCAAF",
@@ -1882,7 +1882,7 @@
       "opponent_id": "4139",
       "opponent_name": "Universidad de Chile",
       "opponent_abbr": "U. de Chile",
-      "date": "2026-10-26T23:00Z",
+      "date": "2026-10-26T21:00Z",
       "venue": "away",
       "event_id": "401850671",
       "source": "ESPN Chile scoreboard (unofficial)"
@@ -1895,7 +1895,7 @@
       "opponent_id": "4129",
       "opponent_name": "Everton CD",
       "opponent_abbr": "EVE",
-      "date": "2026-10-26T23:00Z",
+      "date": "2026-10-26T21:00Z",
       "venue": "home",
       "event_id": "401850671",
       "source": "ESPN Chile scoreboard (unofficial)"
