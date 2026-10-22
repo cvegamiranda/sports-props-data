@@ -1,33 +1,7 @@
 {
   "source": "ESPN public unofficial scoreboards",
-  "updated_at": "2026-10-21T19:46:15.506842+00:00",
+  "updated_at": "2026-10-22T00:19:12.988236+00:00",
   "upcoming": [
-    {
-      "sport": "NCAAF",
-      "team_id": "166",
-      "team_name": "New Mexico State Aggies",
-      "team_abbr": "NMSU",
-      "opponent_id": "2534",
-      "opponent_name": "Sam Houston Bearkats",
-      "opponent_abbr": "SHSU",
-      "date": "2026-10-22T00:00Z",
-      "venue": "away",
-      "event_id": "401871070",
-      "source": "ESPN NCAAF scoreboard (unofficial)"
-    },
-    {
-      "sport": "NCAAF",
-      "team_id": "2534",
-      "team_name": "Sam Houston Bearkats",
-      "team_abbr": "SHSU",
-      "opponent_id": "166",
-      "opponent_name": "New Mexico State Aggies",
-      "opponent_abbr": "NMSU",
-      "date": "2026-10-22T00:00Z",
-      "venue": "home",
-      "event_id": "401871070",
-      "source": "ESPN NCAAF scoreboard (unofficial)"
-    },
     {
       "sport": "NCAAF",
       "team_id": "2026",
@@ -1980,6 +1954,19 @@
     },
     {
       "sport": "NCAAF",
+      "team_id": "2534",
+      "team_name": "Sam Houston Bearkats",
+      "team_abbr": "SHSU",
+      "opponent_id": "2623",
+      "opponent_name": "Missouri State Bears",
+      "opponent_abbr": "MOST",
+      "date": "2026-10-28T00:00Z",
+      "venue": "away",
+      "event_id": "401871072",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
       "team_id": "2623",
       "team_name": "Missouri State Bears",
       "team_abbr": "MOST",
@@ -2002,6 +1989,19 @@
       "date": "2026-10-28T23:00Z",
       "venue": "home",
       "event_id": "401871058",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
+      "team_id": "166",
+      "team_name": "New Mexico State Aggies",
+      "team_abbr": "NMSU",
+      "opponent_id": "55",
+      "opponent_name": "Jacksonville State Gamecocks",
+      "opponent_abbr": "JXST",
+      "date": "2026-10-29T00:00Z",
+      "venue": "home",
+      "event_id": "401871057",
       "source": "ESPN NCAAF scoreboard (unofficial)"
     },
     {
