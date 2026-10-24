@@ -1,59 +1,7 @@
 {
   "source": "ESPN public unofficial scoreboards",
-  "updated_at": "2026-10-24T21:53:22.337398+00:00",
+  "updated_at": "2026-10-24T22:50:50.014490+00:00",
   "upcoming": [
-    {
-      "sport": "NCAAF",
-      "team_id": "265",
-      "team_name": "Washington State Cougars",
-      "team_abbr": "WSU",
-      "opponent_id": "68",
-      "opponent_name": "Boise State Broncos",
-      "opponent_abbr": "BOIS",
-      "date": "2026-10-24T22:00Z",
-      "venue": "home",
-      "event_id": "401860907",
-      "source": "ESPN NCAAF scoreboard (unofficial)"
-    },
-    {
-      "sport": "NCAAF",
-      "team_id": "68",
-      "team_name": "Boise State Broncos",
-      "team_abbr": "BOIS",
-      "opponent_id": "265",
-      "opponent_name": "Washington State Cougars",
-      "opponent_abbr": "WSU",
-      "date": "2026-10-24T22:00Z",
-      "venue": "away",
-      "event_id": "401860907",
-      "source": "ESPN NCAAF scoreboard (unofficial)"
-    },
-    {
-      "sport": "NCAAF",
-      "team_id": "21",
-      "team_name": "San Diego State Aztecs",
-      "team_abbr": "SDSU",
-      "opponent_id": "36",
-      "opponent_name": "Colorado State Rams",
-      "opponent_abbr": "CSU",
-      "date": "2026-10-24T22:30Z",
-      "venue": "away",
-      "event_id": "401860905",
-      "source": "ESPN NCAAF scoreboard (unofficial)"
-    },
-    {
-      "sport": "NCAAF",
-      "team_id": "36",
-      "team_name": "Colorado State Rams",
-      "team_abbr": "CSU",
-      "opponent_id": "21",
-      "opponent_name": "San Diego State Aztecs",
-      "opponent_abbr": "SDSU",
-      "date": "2026-10-24T22:30Z",
-      "venue": "home",
-      "event_id": "401860905",
-      "source": "ESPN NCAAF scoreboard (unofficial)"
-    },
     {
       "sport": "Chile",
       "team_id": "4133",
@@ -1655,6 +1603,19 @@
     },
     {
       "sport": "NCAAF",
+      "team_id": "36",
+      "team_name": "Colorado State Rams",
+      "team_abbr": "CSU",
+      "opponent_id": "328",
+      "opponent_name": "Utah State Aggies",
+      "opponent_abbr": "USU",
+      "date": "2026-10-31T19:30Z",
+      "venue": "away",
+      "event_id": "401860910",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
       "team_id": "57",
       "team_name": "Florida Gators",
       "team_abbr": "FLA",
@@ -1837,6 +1798,32 @@
     },
     {
       "sport": "NCAAF",
+      "team_id": "21",
+      "team_name": "San Diego State Aztecs",
+      "team_abbr": "SDSU",
+      "opponent_id": "265",
+      "opponent_name": "Washington State Cougars",
+      "opponent_abbr": "WSU",
+      "date": "2026-10-31T23:00Z",
+      "venue": "home",
+      "event_id": "401860909",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
+      "team_id": "265",
+      "team_name": "Washington State Cougars",
+      "team_abbr": "WSU",
+      "opponent_id": "21",
+      "opponent_name": "San Diego State Aztecs",
+      "opponent_abbr": "SDSU",
+      "date": "2026-10-31T23:00Z",
+      "venue": "away",
+      "event_id": "401860909",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
       "team_id": "52",
       "team_name": "Florida State Seminoles",
       "team_abbr": "FSU",
@@ -1989,6 +1976,19 @@
       "date": "2026-11-01T00:00Z",
       "venue": "away",
       "event_id": "401862814",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
+      "team_id": "68",
+      "team_name": "Boise State Broncos",
+      "team_abbr": "BOIS",
+      "opponent_id": "326",
+      "opponent_name": "Texas State Bobcats",
+      "opponent_abbr": "TXST",
+      "date": "2026-11-01T02:00Z",
+      "venue": "home",
+      "event_id": "401860908",
       "source": "ESPN NCAAF scoreboard (unofficial)"
     },
     {
