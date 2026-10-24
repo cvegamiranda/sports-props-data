@@ -1,33 +1,7 @@
 {
   "source": "ESPN public unofficial scoreboards",
-  "updated_at": "2026-10-24T13:53:54.691363+00:00",
+  "updated_at": "2026-10-24T15:54:44.013887+00:00",
   "upcoming": [
-    {
-      "sport": "Chile",
-      "team_id": "4137",
-      "team_name": "La Serena",
-      "team_abbr": "LSE",
-      "opponent_id": "8110",
-      "opponent_name": "Deportes Concepcion",
-      "opponent_abbr": "CON",
-      "date": "2026-10-24T15:30Z",
-      "venue": "home",
-      "event_id": "401850674",
-      "source": "ESPN Chile scoreboard (unofficial)"
-    },
-    {
-      "sport": "Chile",
-      "team_id": "8110",
-      "team_name": "Deportes Concepcion",
-      "team_abbr": "CON",
-      "opponent_id": "4137",
-      "opponent_name": "La Serena",
-      "opponent_abbr": "LSE",
-      "date": "2026-10-24T15:30Z",
-      "venue": "away",
-      "event_id": "401850674",
-      "source": "ESPN Chile scoreboard (unofficial)"
-    },
     {
       "sport": "NCAAF",
       "team_id": "130",
@@ -2304,6 +2278,19 @@
       "source": "ESPN Chile scoreboard (unofficial)"
     },
     {
+      "sport": "Chile",
+      "team_id": "4137",
+      "team_name": "La Serena",
+      "team_abbr": "LSE",
+      "opponent_id": "4134",
+      "opponent_name": "Huachipato",
+      "opponent_abbr": "HUA",
+      "date": "2026-11-01T15:00Z",
+      "venue": "away",
+      "event_id": "401850677",
+      "source": "ESPN Chile scoreboard (unofficial)"
+    },
+    {
       "sport": "NFL",
       "team_id": "2",
       "team_name": "Buffalo Bills",
@@ -2367,6 +2354,19 @@
       "venue": "home",
       "event_id": "401873035",
       "source": "ESPN NFL scoreboard (unofficial)"
+    },
+    {
+      "sport": "Chile",
+      "team_id": "8110",
+      "team_name": "Deportes Concepcion",
+      "team_abbr": "CON",
+      "opponent_id": "4422",
+      "opponent_name": "Palestino",
+      "opponent_abbr": "PAL",
+      "date": "2026-11-02T23:30Z",
+      "venue": "home",
+      "event_id": "401850679",
+      "source": "ESPN Chile scoreboard (unofficial)"
     },
     {
       "sport": "NFL",
