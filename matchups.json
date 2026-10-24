@@ -1,59 +1,7 @@
 {
   "source": "ESPN public unofficial scoreboards",
-  "updated_at": "2026-10-24T19:47:33.961504+00:00",
+  "updated_at": "2026-10-24T20:49:45.727641+00:00",
   "upcoming": [
-    {
-      "sport": "NCAAF",
-      "team_id": "195",
-      "team_name": "Ohio Bobcats",
-      "team_abbr": "OHIO",
-      "opponent_id": "2199",
-      "opponent_name": "Eastern Michigan Eagles",
-      "opponent_abbr": "EMU",
-      "date": "2026-10-24T20:00Z",
-      "venue": "home",
-      "event_id": "401866449",
-      "source": "ESPN NCAAF scoreboard (unofficial)"
-    },
-    {
-      "sport": "NCAAF",
-      "team_id": "2199",
-      "team_name": "Eastern Michigan Eagles",
-      "team_abbr": "EMU",
-      "opponent_id": "195",
-      "opponent_name": "Ohio Bobcats",
-      "opponent_abbr": "OHIO",
-      "date": "2026-10-24T20:00Z",
-      "venue": "away",
-      "event_id": "401866449",
-      "source": "ESPN NCAAF scoreboard (unofficial)"
-    },
-    {
-      "sport": "NCAAF",
-      "team_id": "2433",
-      "team_name": "UL Monroe Warhawks",
-      "team_abbr": "ULM",
-      "opponent_id": "2653",
-      "opponent_name": "Troy Trojans",
-      "opponent_abbr": "TROY",
-      "date": "2026-10-24T20:00Z",
-      "venue": "away",
-      "event_id": "401871094",
-      "source": "ESPN NCAAF scoreboard (unofficial)"
-    },
-    {
-      "sport": "NCAAF",
-      "team_id": "2653",
-      "team_name": "Troy Trojans",
-      "team_abbr": "TROY",
-      "opponent_id": "2433",
-      "opponent_name": "UL Monroe Warhawks",
-      "opponent_abbr": "ULM",
-      "date": "2026-10-24T20:00Z",
-      "venue": "home",
-      "event_id": "401871094",
-      "source": "ESPN NCAAF scoreboard (unofficial)"
-    },
     {
       "sport": "NCAAF",
       "team_id": "23",
@@ -1148,6 +1096,19 @@
     },
     {
       "sport": "NCAAF",
+      "team_id": "2653",
+      "team_name": "Troy Trojans",
+      "team_abbr": "TROY",
+      "opponent_id": "256",
+      "opponent_name": "James Madison Dukes",
+      "opponent_abbr": "JMU",
+      "date": "2026-10-29T23:30Z",
+      "venue": "away",
+      "event_id": "401869963",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
       "team_id": "2429",
       "team_name": "Charlotte 49ers",
       "team_abbr": "CLT",
@@ -1677,6 +1638,19 @@
       "date": "2026-10-31T19:30Z",
       "venue": "home",
       "event_id": "401871059",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
+      "team_id": "2433",
+      "team_name": "UL Monroe Warhawks",
+      "team_abbr": "ULM",
+      "opponent_id": "2572",
+      "opponent_name": "Southern Miss Golden Eagles",
+      "opponent_abbr": "USM",
+      "date": "2026-10-31T19:30Z",
+      "venue": "home",
+      "event_id": "401871095",
       "source": "ESPN NCAAF scoreboard (unofficial)"
     },
     {
@@ -2214,6 +2188,19 @@
     },
     {
       "sport": "NCAAF",
+      "team_id": "195",
+      "team_name": "Ohio Bobcats",
+      "team_abbr": "OHIO",
+      "opponent_id": "2006",
+      "opponent_name": "Akron Zips",
+      "opponent_abbr": "AKR",
+      "date": "2026-11-04T00:00Z",
+      "venue": "away",
+      "event_id": "401866453",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
       "team_id": "2006",
       "team_name": "Akron Zips",
       "team_abbr": "AKR",
@@ -2274,6 +2261,19 @@
       "opponent_abbr": "EMU",
       "date": "2026-11-04T05:00Z",
       "venue": "away",
+      "event_id": "401866456",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
+      "team_id": "2199",
+      "team_name": "Eastern Michigan Eagles",
+      "team_abbr": "EMU",
+      "opponent_id": "2117",
+      "opponent_name": "Central Michigan Chippewas",
+      "opponent_abbr": "CMU",
+      "date": "2026-11-04T05:00Z",
+      "venue": "home",
       "event_id": "401866456",
       "source": "ESPN NCAAF scoreboard (unofficial)"
     },
