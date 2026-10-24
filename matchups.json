@@ -1,85 +1,7 @@
 {
   "source": "ESPN public unofficial scoreboards",
-  "updated_at": "2026-10-23T23:50:41.741746+00:00",
+  "updated_at": "2026-10-24T01:15:11.043651+00:00",
   "upcoming": [
-    {
-      "sport": "NCAAF",
-      "team_id": "202",
-      "team_name": "Tulsa Golden Hurricane",
-      "team_abbr": "TLSA",
-      "opponent_id": "349",
-      "opponent_name": "Army Black Knights",
-      "opponent_abbr": "ARMY",
-      "date": "2026-10-24T00:30Z",
-      "venue": "home",
-      "event_id": "401862808",
-      "source": "ESPN NCAAF scoreboard (unofficial)"
-    },
-    {
-      "sport": "NCAAF",
-      "team_id": "349",
-      "team_name": "Army Black Knights",
-      "team_abbr": "ARMY",
-      "opponent_id": "202",
-      "opponent_name": "Tulsa Golden Hurricane",
-      "opponent_abbr": "TLSA",
-      "date": "2026-10-24T00:30Z",
-      "venue": "away",
-      "event_id": "401862808",
-      "source": "ESPN NCAAF scoreboard (unofficial)"
-    },
-    {
-      "sport": "NCAAF",
-      "team_id": "2005",
-      "team_name": "Air Force Falcons",
-      "team_abbr": "AFA",
-      "opponent_id": "2751",
-      "opponent_name": "Wyoming Cowboys",
-      "opponent_abbr": "WYO",
-      "date": "2026-10-24T01:00Z",
-      "venue": "away",
-      "event_id": "401864525",
-      "source": "ESPN NCAAF scoreboard (unofficial)"
-    },
-    {
-      "sport": "NCAAF",
-      "team_id": "2751",
-      "team_name": "Wyoming Cowboys",
-      "team_abbr": "WYO",
-      "opponent_id": "2005",
-      "opponent_name": "Air Force Falcons",
-      "opponent_abbr": "AFA",
-      "date": "2026-10-24T01:00Z",
-      "venue": "home",
-      "event_id": "401864525",
-      "source": "ESPN NCAAF scoreboard (unofficial)"
-    },
-    {
-      "sport": "NCAAF",
-      "team_id": "152",
-      "team_name": "NC State Wolfpack",
-      "team_abbr": "NCSU",
-      "opponent_id": "24",
-      "opponent_name": "Stanford Cardinal",
-      "opponent_abbr": "STAN",
-      "date": "2026-10-24T02:30Z",
-      "venue": "away",
-      "event_id": "401858272",
-      "source": "ESPN NCAAF scoreboard (unofficial)"
-    },
-    {
-      "sport": "NCAAF",
-      "team_id": "24",
-      "team_name": "Stanford Cardinal",
-      "team_abbr": "STAN",
-      "opponent_id": "152",
-      "opponent_name": "NC State Wolfpack",
-      "opponent_abbr": "NCSU",
-      "date": "2026-10-24T02:30Z",
-      "venue": "home",
-      "event_id": "401858272",
-      "source": "ESPN NCAAF scoreboard (unofficial)"
-    },
     {
       "sport": "Chile",
       "team_id": "4137",
@@ -1941,6 +1863,19 @@
     },
     {
       "sport": "NCAAF",
+      "team_id": "152",
+      "team_name": "NC State Wolfpack",
+      "team_abbr": "NCSU",
+      "opponent_id": "25",
+      "opponent_name": "California Golden Bears",
+      "opponent_abbr": "CAL",
+      "date": "2026-10-31T16:00Z",
+      "venue": "home",
+      "event_id": "401858277",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
       "team_id": "5",
       "team_name": "UAB Blazers",
       "team_abbr": "UAB",
@@ -2019,6 +1954,19 @@
     },
     {
       "sport": "NCAAF",
+      "team_id": "2005",
+      "team_name": "Air Force Falcons",
+      "team_abbr": "AFA",
+      "opponent_id": "41",
+      "opponent_name": "UConn Huskies",
+      "opponent_abbr": "CONN",
+      "date": "2026-10-31T19:00Z",
+      "venue": "home",
+      "event_id": "401861966",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
       "team_id": "218",
       "team_name": "Temple Owls",
       "team_abbr": "TEM",
@@ -2054,6 +2002,19 @@
       "date": "2026-10-31T19:00Z",
       "venue": "home",
       "event_id": "401871097",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
+      "team_id": "24",
+      "team_name": "Stanford Cardinal",
+      "team_abbr": "STAN",
+      "opponent_id": "97",
+      "opponent_name": "Louisville Cardinals",
+      "opponent_abbr": "LOU",
+      "date": "2026-10-31T19:15Z",
+      "venue": "away",
+      "event_id": "401858283",
       "source": "ESPN NCAAF scoreboard (unofficial)"
     },
     {
@@ -2279,6 +2240,19 @@
     },
     {
       "sport": "NCAAF",
+      "team_id": "349",
+      "team_name": "Army Black Knights",
+      "team_abbr": "ARMY",
+      "opponent_id": "235",
+      "opponent_name": "Memphis Tigers",
+      "opponent_abbr": "MEM",
+      "date": "2026-11-01T00:00Z",
+      "venue": "away",
+      "event_id": "401862814",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
       "team_id": "2439",
       "team_name": "UNLV Rebels",
       "team_abbr": "UNLV",
@@ -2422,6 +2396,19 @@
     },
     {
       "sport": "NCAAF",
+      "team_id": "202",
+      "team_name": "Tulsa Golden Hurricane",
+      "team_abbr": "TLSA",
+      "opponent_id": "2655",
+      "opponent_name": "Tulane Green Wave",
+      "opponent_abbr": "TULN",
+      "date": "2026-11-07T05:00Z",
+      "venue": "away",
+      "event_id": "401862822",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
       "team_id": "2771",
       "team_name": "Merrimack Warriors",
       "team_abbr": "MRMK",
@@ -2431,6 +2418,71 @@
       "date": "2026-11-07T05:00Z",
       "venue": "away",
       "event_id": "401858290",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
+      "team_id": "2751",
+      "team_name": "Wyoming Cowboys",
+      "team_abbr": "WYO",
+      "opponent_id": "2439",
+      "opponent_name": "UNLV Rebels",
+      "opponent_abbr": "UNLV",
+      "date": "2026-11-08T03:30Z",
+      "venue": "away",
+      "event_id": "401864535",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
+      "team_id": "2747",
+      "team_name": "Wofford Terriers",
+      "team_abbr": "WOF",
+      "opponent_id": "145",
+      "opponent_name": "Ole Miss Rebels",
+      "opponent_abbr": "MISS",
+      "date": "2026-11-21T17:00Z",
+      "venue": "away",
+      "event_id": "401856749",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
+      "team_id": "2635",
+      "team_name": "Tennessee Tech Golden Eagles",
+      "team_abbr": "TNTC",
+      "opponent_id": "344",
+      "opponent_name": "Mississippi State Bulldogs",
+      "opponent_abbr": "MSST",
+      "date": "2026-11-21T18:00Z",
+      "venue": "away",
+      "event_id": "401856750",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
+      "team_id": "236",
+      "team_name": "Chattanooga Mocs",
+      "team_abbr": "UTC",
+      "opponent_id": "333",
+      "opponent_name": "Alabama Crimson Tide",
+      "opponent_abbr": "ALA",
+      "date": "2026-11-21T19:00Z",
+      "venue": "away",
+      "event_id": "401856746",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
+      "team_id": "2535",
+      "team_name": "Samford Bulldogs",
+      "team_abbr": "SAM",
+      "opponent_id": "2",
+      "opponent_name": "Auburn Tigers",
+      "opponent_abbr": "AUB",
+      "date": "2026-11-21T20:30Z",
+      "venue": "away",
+      "event_id": "401856747",
       "source": "ESPN NCAAF scoreboard (unofficial)"
     }
   ]
