@@ -1,85 +1,7 @@
 {
   "source": "ESPN public unofficial scoreboards",
-  "updated_at": "2026-10-24T20:49:45.727641+00:00",
+  "updated_at": "2026-10-24T21:53:22.337398+00:00",
   "upcoming": [
-    {
-      "sport": "NCAAF",
-      "team_id": "23",
-      "team_name": "San José State Spartans",
-      "team_abbr": "SJSU",
-      "opponent_id": "2440",
-      "opponent_name": "Nevada Wolf Pack",
-      "opponent_abbr": "NEV",
-      "date": "2026-10-24T21:00Z",
-      "venue": "away",
-      "event_id": "401864528",
-      "source": "ESPN NCAAF scoreboard (unofficial)"
-    },
-    {
-      "sport": "NCAAF",
-      "team_id": "2348",
-      "team_name": "Louisiana Tech Bulldogs",
-      "team_abbr": "LT",
-      "opponent_id": "295",
-      "opponent_name": "Old Dominion Monarchs",
-      "opponent_abbr": "ODU",
-      "date": "2026-10-24T21:00Z",
-      "venue": "home",
-      "event_id": "401871093",
-      "source": "ESPN NCAAF scoreboard (unofficial)"
-    },
-    {
-      "sport": "NCAAF",
-      "team_id": "2440",
-      "team_name": "Nevada Wolf Pack",
-      "team_abbr": "NEV",
-      "opponent_id": "23",
-      "opponent_name": "San José State Spartans",
-      "opponent_abbr": "SJSU",
-      "date": "2026-10-24T21:00Z",
-      "venue": "home",
-      "event_id": "401864528",
-      "source": "ESPN NCAAF scoreboard (unofficial)"
-    },
-    {
-      "sport": "NCAAF",
-      "team_id": "2572",
-      "team_name": "Southern Miss Golden Eagles",
-      "team_abbr": "USM",
-      "opponent_id": "309",
-      "opponent_name": "Louisiana Ragin' Cajuns",
-      "opponent_abbr": "UL",
-      "date": "2026-10-24T21:00Z",
-      "venue": "home",
-      "event_id": "401869967",
-      "source": "ESPN NCAAF scoreboard (unofficial)"
-    },
-    {
-      "sport": "NCAAF",
-      "team_id": "295",
-      "team_name": "Old Dominion Monarchs",
-      "team_abbr": "ODU",
-      "opponent_id": "2348",
-      "opponent_name": "Louisiana Tech Bulldogs",
-      "opponent_abbr": "LT",
-      "date": "2026-10-24T21:00Z",
-      "venue": "away",
-      "event_id": "401871093",
-      "source": "ESPN NCAAF scoreboard (unofficial)"
-    },
-    {
-      "sport": "NCAAF",
-      "team_id": "309",
-      "team_name": "Louisiana Ragin' Cajuns",
-      "team_abbr": "UL",
-      "opponent_id": "2572",
-      "opponent_name": "Southern Miss Golden Eagles",
-      "opponent_abbr": "USM",
-      "date": "2026-10-24T21:00Z",
-      "venue": "away",
-      "event_id": "401869967",
-      "source": "ESPN NCAAF scoreboard (unofficial)"
-    },
     {
       "sport": "NCAAF",
       "team_id": "265",
@@ -1473,6 +1395,19 @@
     },
     {
       "sport": "NCAAF",
+      "team_id": "295",
+      "team_name": "Old Dominion Monarchs",
+      "team_abbr": "ODU",
+      "opponent_id": "276",
+      "opponent_name": "Marshall Thundering Herd",
+      "opponent_abbr": "MRSH",
+      "date": "2026-10-31T17:00Z",
+      "venue": "home",
+      "event_id": "401871096",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
       "team_id": "2306",
       "team_name": "Kansas State Wildcats",
       "team_abbr": "KSU",
@@ -1534,6 +1469,19 @@
       "date": "2026-10-31T19:00Z",
       "venue": "away",
       "event_id": "401862815",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
+      "team_id": "2348",
+      "team_name": "Louisiana Tech Bulldogs",
+      "team_abbr": "LT",
+      "opponent_id": "6",
+      "opponent_name": "South Alabama Jaguars",
+      "opponent_abbr": "USA",
+      "date": "2026-10-31T19:00Z",
+      "venue": "away",
+      "event_id": "401871097",
       "source": "ESPN NCAAF scoreboard (unofficial)"
     },
     {
@@ -1668,6 +1616,19 @@
     },
     {
       "sport": "NCAAF",
+      "team_id": "2572",
+      "team_name": "Southern Miss Golden Eagles",
+      "team_abbr": "USM",
+      "opponent_id": "2433",
+      "opponent_name": "UL Monroe Warhawks",
+      "opponent_abbr": "ULM",
+      "date": "2026-10-31T19:30Z",
+      "venue": "away",
+      "event_id": "401871095",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
       "team_id": "2628",
       "team_name": "TCU Horned Frogs",
       "team_abbr": "TCU",
@@ -1785,6 +1746,19 @@
     },
     {
       "sport": "NCAAF",
+      "team_id": "23",
+      "team_name": "San José State Spartans",
+      "team_abbr": "SJSU",
+      "opponent_id": "167",
+      "opponent_name": "New Mexico Lobos",
+      "opponent_abbr": "UNM",
+      "date": "2026-10-31T20:00Z",
+      "venue": "home",
+      "event_id": "401864529",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
       "team_id": "201",
       "team_name": "Oklahoma Sooners",
       "team_abbr": "OU",
@@ -1794,6 +1768,19 @@
       "date": "2026-10-31T20:15Z",
       "venue": "home",
       "event_id": "401856736",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
+      "team_id": "2440",
+      "team_name": "Nevada Wolf Pack",
+      "team_abbr": "NEV",
+      "opponent_id": "26",
+      "opponent_name": "UCLA Bruins",
+      "opponent_abbr": "UCLA",
+      "date": "2026-10-31T20:15Z",
+      "venue": "away",
+      "event_id": "401858508",
       "source": "ESPN NCAAF scoreboard (unofficial)"
     },
     {
@@ -2379,6 +2366,19 @@
       "date": "2026-11-07T05:00Z",
       "venue": "away",
       "event_id": "401858290",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
+      "team_id": "309",
+      "team_name": "Louisiana Ragin' Cajuns",
+      "team_abbr": "UL",
+      "opponent_id": "6",
+      "opponent_name": "South Alabama Jaguars",
+      "opponent_abbr": "USA",
+      "date": "2026-11-07T05:00Z",
+      "venue": "home",
+      "event_id": "401869968",
       "source": "ESPN NCAAF scoreboard (unofficial)"
     },
     {
