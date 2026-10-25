@@ -1,33 +1,7 @@
 {
   "source": "ESPN public unofficial scoreboards",
-  "updated_at": "2026-10-25T17:53:13.491324+00:00",
+  "updated_at": "2026-10-25T19:01:29.737731+00:00",
   "upcoming": [
-    {
-      "sport": "Chile",
-      "team_id": "10144",
-      "team_name": "Unión La Calera",
-      "team_abbr": "ULC",
-      "opponent_id": "885",
-      "opponent_name": "Universidad Católica",
-      "opponent_abbr": "CDUC",
-      "date": "2026-10-25T18:00Z",
-      "venue": "home",
-      "event_id": "401850669",
-      "source": "ESPN Chile scoreboard (unofficial)"
-    },
-    {
-      "sport": "Chile",
-      "team_id": "885",
-      "team_name": "Universidad Católica",
-      "team_abbr": "CDUC",
-      "opponent_id": "10144",
-      "opponent_name": "Unión La Calera",
-      "opponent_abbr": "ULC",
-      "date": "2026-10-25T18:00Z",
-      "venue": "away",
-      "event_id": "401850669",
-      "source": "ESPN Chile scoreboard (unofficial)"
-    },
     {
       "sport": "NFL",
       "team_id": "22",
@@ -328,6 +302,19 @@
       "source": "ESPN Chile scoreboard (unofficial)"
     },
     {
+      "sport": "Chile",
+      "team_id": "885",
+      "team_name": "Universidad Católica",
+      "team_abbr": "CDUC",
+      "opponent_id": "4138",
+      "opponent_name": "Audax Italiano",
+      "opponent_abbr": "AUD",
+      "date": "2026-10-28T23:30Z",
+      "venue": "home",
+      "event_id": "401850663",
+      "source": "ESPN Chile scoreboard (unofficial)"
+    },
+    {
       "sport": "NCAAF",
       "team_id": "166",
       "team_name": "New Mexico State Aggies",
@@ -417,6 +404,19 @@
       "venue": "away",
       "event_id": "401873023",
       "source": "ESPN NFL scoreboard (unofficial)"
+    },
+    {
+      "sport": "Chile",
+      "team_id": "10144",
+      "team_name": "Unión La Calera",
+      "team_abbr": "ULC",
+      "opponent_id": "8186",
+      "opponent_name": "Coquimbo Unido",
+      "opponent_abbr": "COQ",
+      "date": "2026-10-30T22:00Z",
+      "venue": "away",
+      "event_id": "401850680",
+      "source": "ESPN Chile scoreboard (unofficial)"
     },
     {
       "sport": "Chile",
