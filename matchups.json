@@ -1,33 +1,7 @@
 {
   "source": "ESPN public unofficial scoreboards",
-  "updated_at": "2026-10-25T22:50:26.411046+00:00",
+  "updated_at": "2026-10-25T23:48:59.461269+00:00",
   "upcoming": [
-    {
-      "sport": "Chile",
-      "team_id": "19195",
-      "team_name": "Deportes Limache",
-      "team_abbr": "LIM",
-      "opponent_id": "5362",
-      "opponent_name": "Universidad de Concepción",
-      "opponent_abbr": "UdeC",
-      "date": "2026-10-25T23:00Z",
-      "venue": "away",
-      "event_id": "401850670",
-      "source": "ESPN Chile scoreboard (unofficial)"
-    },
-    {
-      "sport": "Chile",
-      "team_id": "5362",
-      "team_name": "Universidad de Concepción",
-      "team_abbr": "UdeC",
-      "opponent_id": "19195",
-      "opponent_name": "Deportes Limache",
-      "opponent_abbr": "LIM",
-      "date": "2026-10-25T23:00Z",
-      "venue": "home",
-      "event_id": "401850670",
-      "source": "ESPN Chile scoreboard (unofficial)"
-    },
     {
       "sport": "NFL",
       "team_id": "12",
@@ -337,6 +311,19 @@
       "opponent_abbr": "UdeC",
       "date": "2026-10-30T22:00Z",
       "venue": "home",
+      "event_id": "401850681",
+      "source": "ESPN Chile scoreboard (unofficial)"
+    },
+    {
+      "sport": "Chile",
+      "team_id": "5362",
+      "team_name": "Universidad de Concepción",
+      "team_abbr": "UdeC",
+      "opponent_id": "2688",
+      "opponent_name": "Colo Colo",
+      "opponent_abbr": "COL",
+      "date": "2026-10-30T22:00Z",
+      "venue": "away",
       "event_id": "401850681",
       "source": "ESPN Chile scoreboard (unofficial)"
     },
@@ -1990,6 +1977,19 @@
       "venue": "home",
       "event_id": "401873035",
       "source": "ESPN NFL scoreboard (unofficial)"
+    },
+    {
+      "sport": "Chile",
+      "team_id": "19195",
+      "team_name": "Deportes Limache",
+      "team_abbr": "LIM",
+      "opponent_id": "4138",
+      "opponent_name": "Audax Italiano",
+      "opponent_abbr": "AUD",
+      "date": "2026-11-02T21:00Z",
+      "venue": "home",
+      "event_id": "401850678",
+      "source": "ESPN Chile scoreboard (unofficial)"
     },
     {
       "sport": "Chile",
