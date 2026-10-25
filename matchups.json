@@ -1,33 +1,7 @@
 {
   "source": "ESPN public unofficial scoreboards",
-  "updated_at": "2026-10-25T14:53:05.206604+00:00",
+  "updated_at": "2026-10-25T15:53:33.903889+00:00",
   "upcoming": [
-    {
-      "sport": "Chile",
-      "team_id": "7427",
-      "team_name": "Ñublense",
-      "team_abbr": "ÑUB",
-      "opponent_id": "8186",
-      "opponent_name": "Coquimbo Unido",
-      "opponent_abbr": "COQ",
-      "date": "2026-10-25T15:30Z",
-      "venue": "home",
-      "event_id": "401850675",
-      "source": "ESPN Chile scoreboard (unofficial)"
-    },
-    {
-      "sport": "Chile",
-      "team_id": "8186",
-      "team_name": "Coquimbo Unido",
-      "team_abbr": "COQ",
-      "opponent_id": "7427",
-      "opponent_name": "Ñublense",
-      "opponent_abbr": "ÑUB",
-      "date": "2026-10-25T15:30Z",
-      "venue": "away",
-      "event_id": "401850675",
-      "source": "ESPN Chile scoreboard (unofficial)"
-    },
     {
       "sport": "NFL",
       "team_id": "1",
@@ -612,6 +586,19 @@
       "venue": "away",
       "event_id": "401869963",
       "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "Chile",
+      "team_id": "8186",
+      "team_name": "Coquimbo Unido",
+      "team_abbr": "COQ",
+      "opponent_id": "10144",
+      "opponent_name": "Unión La Calera",
+      "opponent_abbr": "ULC",
+      "date": "2026-10-30T22:00Z",
+      "venue": "home",
+      "event_id": "401850680",
+      "source": "ESPN Chile scoreboard (unofficial)"
     },
     {
       "sport": "NCAAF",
@@ -1585,6 +1572,19 @@
       "opponent_abbr": "ÑUB",
       "date": "2026-10-31T23:00Z",
       "venue": "home",
+      "event_id": "401850676",
+      "source": "ESPN Chile scoreboard (unofficial)"
+    },
+    {
+      "sport": "Chile",
+      "team_id": "7427",
+      "team_name": "Ñublense",
+      "team_abbr": "ÑUB",
+      "opponent_id": "6072",
+      "opponent_name": "O'Higgins",
+      "opponent_abbr": "OHI",
+      "date": "2026-10-31T23:00Z",
+      "venue": "away",
       "event_id": "401850676",
       "source": "ESPN Chile scoreboard (unofficial)"
     },
