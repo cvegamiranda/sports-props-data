@@ -1,33 +1,7 @@
 {
   "source": "ESPN public unofficial scoreboards",
-  "updated_at": "2026-10-25T13:04:12.693977+00:00",
+  "updated_at": "2026-10-25T13:54:30.768279+00:00",
   "upcoming": [
-    {
-      "sport": "NFL",
-      "team_id": "18",
-      "team_name": "New Orleans Saints",
-      "team_abbr": "NO",
-      "opponent_id": "23",
-      "opponent_name": "Pittsburgh Steelers",
-      "opponent_abbr": "PIT",
-      "date": "2026-10-25T13:30Z",
-      "venue": "home",
-      "event_id": "401873011",
-      "source": "ESPN NFL scoreboard (unofficial)"
-    },
-    {
-      "sport": "NFL",
-      "team_id": "23",
-      "team_name": "Pittsburgh Steelers",
-      "team_abbr": "PIT",
-      "opponent_id": "18",
-      "opponent_name": "New Orleans Saints",
-      "opponent_abbr": "NO",
-      "date": "2026-10-25T13:30Z",
-      "venue": "away",
-      "event_id": "401873011",
-      "source": "ESPN NFL scoreboard (unofficial)"
-    },
     {
       "sport": "Chile",
       "team_id": "7427",
@@ -2006,6 +1980,19 @@
     },
     {
       "sport": "NFL",
+      "team_id": "23",
+      "team_name": "Pittsburgh Steelers",
+      "team_abbr": "PIT",
+      "opponent_id": "5",
+      "opponent_name": "Cleveland Browns",
+      "opponent_abbr": "CLE",
+      "date": "2026-11-01T18:00Z",
+      "venue": "home",
+      "event_id": "401873027",
+      "source": "ESPN NFL scoreboard (unofficial)"
+    },
+    {
+      "sport": "NFL",
       "team_id": "30",
       "team_name": "Jacksonville Jaguars",
       "team_abbr": "JAX",
@@ -2432,6 +2419,19 @@
       "venue": "away",
       "event_id": "401864535",
       "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NFL",
+      "team_id": "18",
+      "team_name": "New Orleans Saints",
+      "team_abbr": "NO",
+      "opponent_id": "5",
+      "opponent_name": "Cleveland Browns",
+      "opponent_abbr": "CLE",
+      "date": "2026-11-08T18:00Z",
+      "venue": "home",
+      "event_id": "401873039",
+      "source": "ESPN NFL scoreboard (unofficial)"
     },
     {
       "sport": "NCAAF",
