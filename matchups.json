@@ -1,111 +1,7 @@
 {
   "source": "ESPN public unofficial scoreboards",
-  "updated_at": "2026-10-25T19:49:11.758671+00:00",
+  "updated_at": "2026-10-25T20:54:15.843347+00:00",
   "upcoming": [
-    {
-      "sport": "NFL",
-      "team_id": "22",
-      "team_name": "Arizona Cardinals",
-      "team_abbr": "ARI",
-      "opponent_id": "7",
-      "opponent_name": "Denver Broncos",
-      "opponent_abbr": "DEN",
-      "date": "2026-10-25T20:05Z",
-      "venue": "home",
-      "event_id": "401873019",
-      "source": "ESPN NFL scoreboard (unofficial)"
-    },
-    {
-      "sport": "NFL",
-      "team_id": "7",
-      "team_name": "Denver Broncos",
-      "team_abbr": "DEN",
-      "opponent_id": "22",
-      "opponent_name": "Arizona Cardinals",
-      "opponent_abbr": "ARI",
-      "date": "2026-10-25T20:05Z",
-      "venue": "away",
-      "event_id": "401873019",
-      "source": "ESPN NFL scoreboard (unofficial)"
-    },
-    {
-      "sport": "NFL",
-      "team_id": "13",
-      "team_name": "Las Vegas Raiders",
-      "team_abbr": "LV",
-      "opponent_id": "14",
-      "opponent_name": "Los Angeles Rams",
-      "opponent_abbr": "LAR",
-      "date": "2026-10-25T20:25Z",
-      "venue": "home",
-      "event_id": "401873021",
-      "source": "ESPN NFL scoreboard (unofficial)"
-    },
-    {
-      "sport": "NFL",
-      "team_id": "14",
-      "team_name": "Los Angeles Rams",
-      "team_abbr": "LAR",
-      "opponent_id": "13",
-      "opponent_name": "Las Vegas Raiders",
-      "opponent_abbr": "LV",
-      "date": "2026-10-25T20:25Z",
-      "venue": "away",
-      "event_id": "401873021",
-      "source": "ESPN NFL scoreboard (unofficial)"
-    },
-    {
-      "sport": "NFL",
-      "team_id": "8",
-      "team_name": "Detroit Lions",
-      "team_abbr": "DET",
-      "opponent_id": "9",
-      "opponent_name": "Green Bay Packers",
-      "opponent_abbr": "GB",
-      "date": "2026-10-25T20:25Z",
-      "venue": "home",
-      "event_id": "401873020",
-      "source": "ESPN NFL scoreboard (unofficial)"
-    },
-    {
-      "sport": "NFL",
-      "team_id": "9",
-      "team_name": "Green Bay Packers",
-      "team_abbr": "GB",
-      "opponent_id": "8",
-      "opponent_name": "Detroit Lions",
-      "opponent_abbr": "DET",
-      "date": "2026-10-25T20:25Z",
-      "venue": "away",
-      "event_id": "401873020",
-      "source": "ESPN NFL scoreboard (unofficial)"
-    },
-    {
-      "sport": "Chile",
-      "team_id": "2688",
-      "team_name": "Colo Colo",
-      "team_abbr": "COL",
-      "opponent_id": "4422",
-      "opponent_name": "Palestino",
-      "opponent_abbr": "PAL",
-      "date": "2026-10-25T20:30Z",
-      "venue": "away",
-      "event_id": "401850672",
-      "source": "ESPN Chile scoreboard (unofficial)"
-    },
-    {
-      "sport": "Chile",
-      "team_id": "4422",
-      "team_name": "Palestino",
-      "team_abbr": "PAL",
-      "opponent_id": "2688",
-      "opponent_name": "Colo Colo",
-      "opponent_abbr": "COL",
-      "date": "2026-10-25T20:30Z",
-      "venue": "home",
-      "event_id": "401850672",
-      "source": "ESPN Chile scoreboard (unofficial)"
-    },
     {
       "sport": "Chile",
       "team_id": "19195",
@@ -406,6 +302,19 @@
       "source": "ESPN NFL scoreboard (unofficial)"
     },
     {
+      "sport": "NFL",
+      "team_id": "9",
+      "team_name": "Green Bay Packers",
+      "team_abbr": "GB",
+      "opponent_id": "29",
+      "opponent_name": "Carolina Panthers",
+      "opponent_abbr": "CAR",
+      "date": "2026-10-30T00:15Z",
+      "venue": "home",
+      "event_id": "401873023",
+      "source": "ESPN NFL scoreboard (unofficial)"
+    },
+    {
       "sport": "Chile",
       "team_id": "10144",
       "team_name": "Unión La Calera",
@@ -416,6 +325,19 @@
       "date": "2026-10-30T22:00Z",
       "venue": "away",
       "event_id": "401850680",
+      "source": "ESPN Chile scoreboard (unofficial)"
+    },
+    {
+      "sport": "Chile",
+      "team_id": "2688",
+      "team_name": "Colo Colo",
+      "team_abbr": "COL",
+      "opponent_id": "5362",
+      "opponent_name": "Universidad de Concepción",
+      "opponent_abbr": "UdeC",
+      "date": "2026-10-30T22:00Z",
+      "venue": "home",
+      "event_id": "401850681",
       "source": "ESPN Chile scoreboard (unofficial)"
     },
     {
@@ -1837,6 +1759,19 @@
     },
     {
       "sport": "NFL",
+      "team_id": "13",
+      "team_name": "Las Vegas Raiders",
+      "team_abbr": "LV",
+      "opponent_id": "20",
+      "opponent_name": "New York Jets",
+      "opponent_abbr": "NYJ",
+      "date": "2026-11-01T18:00Z",
+      "venue": "away",
+      "event_id": "401873029",
+      "source": "ESPN NFL scoreboard (unofficial)"
+    },
+    {
+      "sport": "NFL",
       "team_id": "16",
       "team_name": "Minnesota Vikings",
       "team_abbr": "MIN",
@@ -1872,6 +1807,19 @@
       "date": "2026-11-01T18:00Z",
       "venue": "home",
       "event_id": "401873029",
+      "source": "ESPN NFL scoreboard (unofficial)"
+    },
+    {
+      "sport": "NFL",
+      "team_id": "22",
+      "team_name": "Arizona Cardinals",
+      "team_abbr": "ARI",
+      "opponent_id": "6",
+      "opponent_name": "Dallas Cowboys",
+      "opponent_abbr": "DAL",
+      "date": "2026-11-01T18:00Z",
+      "venue": "away",
+      "event_id": "401873024",
       "source": "ESPN NFL scoreboard (unofficial)"
     },
     {
@@ -1954,6 +1902,32 @@
     },
     {
       "sport": "NFL",
+      "team_id": "8",
+      "team_name": "Detroit Lions",
+      "team_abbr": "DET",
+      "opponent_id": "16",
+      "opponent_name": "Minnesota Vikings",
+      "opponent_abbr": "MIN",
+      "date": "2026-11-01T18:00Z",
+      "venue": "home",
+      "event_id": "401873030",
+      "source": "ESPN NFL scoreboard (unofficial)"
+    },
+    {
+      "sport": "NFL",
+      "team_id": "14",
+      "team_name": "Los Angeles Rams",
+      "team_abbr": "LAR",
+      "opponent_id": "24",
+      "opponent_name": "Los Angeles Chargers",
+      "opponent_abbr": "LAC",
+      "date": "2026-11-01T21:05Z",
+      "venue": "home",
+      "event_id": "401873032",
+      "source": "ESPN NFL scoreboard (unofficial)"
+    },
+    {
+      "sport": "NFL",
       "team_id": "24",
       "team_name": "Los Angeles Chargers",
       "team_abbr": "LAC",
@@ -1993,6 +1967,19 @@
     },
     {
       "sport": "NFL",
+      "team_id": "7",
+      "team_name": "Denver Broncos",
+      "team_abbr": "DEN",
+      "opponent_id": "12",
+      "opponent_name": "Kansas City Chiefs",
+      "opponent_abbr": "KC",
+      "date": "2026-11-01T21:25Z",
+      "venue": "home",
+      "event_id": "401873033",
+      "source": "ESPN NFL scoreboard (unofficial)"
+    },
+    {
+      "sport": "NFL",
       "team_id": "28",
       "team_name": "Washington Commanders",
       "team_abbr": "WSH",
@@ -2003,6 +1990,19 @@
       "venue": "home",
       "event_id": "401873035",
       "source": "ESPN NFL scoreboard (unofficial)"
+    },
+    {
+      "sport": "Chile",
+      "team_id": "4422",
+      "team_name": "Palestino",
+      "team_abbr": "PAL",
+      "opponent_id": "8110",
+      "opponent_name": "Deportes Concepcion",
+      "opponent_abbr": "CON",
+      "date": "2026-11-02T23:30Z",
+      "venue": "away",
+      "event_id": "401850679",
+      "source": "ESPN Chile scoreboard (unofficial)"
     },
     {
       "sport": "Chile",
