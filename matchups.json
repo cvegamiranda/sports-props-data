@@ -1,85 +1,7 @@
 {
   "source": "ESPN public unofficial scoreboards",
-  "updated_at": "2026-10-24T23:48:47.516921+00:00",
+  "updated_at": "2026-10-25T01:04:43.774725+00:00",
   "upcoming": [
-    {
-      "sport": "NCAAF",
-      "team_id": "2636",
-      "team_name": "UTSA Roadrunners",
-      "team_abbr": "UTSA",
-      "opponent_id": "2655",
-      "opponent_name": "Tulane Green Wave",
-      "opponent_abbr": "TULN",
-      "date": "2026-10-25T00:00Z",
-      "venue": "away",
-      "event_id": "401862811",
-      "source": "ESPN NCAAF scoreboard (unofficial)"
-    },
-    {
-      "sport": "NCAAF",
-      "team_id": "2655",
-      "team_name": "Tulane Green Wave",
-      "team_abbr": "TULN",
-      "opponent_id": "2636",
-      "opponent_name": "UTSA Roadrunners",
-      "opponent_abbr": "UTSA",
-      "date": "2026-10-25T00:00Z",
-      "venue": "home",
-      "event_id": "401862811",
-      "source": "ESPN NCAAF scoreboard (unofficial)"
-    },
-    {
-      "sport": "NCAAF",
-      "team_id": "167",
-      "team_name": "New Mexico Lobos",
-      "team_abbr": "UNM",
-      "opponent_id": "2449",
-      "opponent_name": "North Dakota State Bison",
-      "opponent_abbr": "NDSU",
-      "date": "2026-10-25T02:00Z",
-      "venue": "home",
-      "event_id": "401864527",
-      "source": "ESPN NCAAF scoreboard (unofficial)"
-    },
-    {
-      "sport": "NCAAF",
-      "team_id": "2449",
-      "team_name": "North Dakota State Bison",
-      "team_abbr": "NDSU",
-      "opponent_id": "167",
-      "opponent_name": "New Mexico Lobos",
-      "opponent_abbr": "UNM",
-      "date": "2026-10-25T02:00Z",
-      "venue": "away",
-      "event_id": "401864527",
-      "source": "ESPN NCAAF scoreboard (unofficial)"
-    },
-    {
-      "sport": "NCAAF",
-      "team_id": "248",
-      "team_name": "Houston Cougars",
-      "team_abbr": "HOU",
-      "opponent_id": "254",
-      "opponent_name": "Utah Utes",
-      "opponent_abbr": "UTAH",
-      "date": "2026-10-25T02:15Z",
-      "venue": "away",
-      "event_id": "401856837",
-      "source": "ESPN NCAAF scoreboard (unofficial)"
-    },
-    {
-      "sport": "NCAAF",
-      "team_id": "254",
-      "team_name": "Utah Utes",
-      "team_abbr": "UTAH",
-      "opponent_id": "248",
-      "opponent_name": "Houston Cougars",
-      "opponent_abbr": "HOU",
-      "date": "2026-10-25T02:15Z",
-      "venue": "home",
-      "event_id": "401856837",
-      "source": "ESPN NCAAF scoreboard (unofficial)"
-    },
     {
       "sport": "NFL",
       "team_id": "18",
@@ -732,6 +654,19 @@
     },
     {
       "sport": "NCAAF",
+      "team_id": "2655",
+      "team_name": "Tulane Green Wave",
+      "team_abbr": "TULN",
+      "opponent_id": "2429",
+      "opponent_name": "Charlotte 49ers",
+      "opponent_abbr": "CLT",
+      "date": "2026-10-30T23:00Z",
+      "venue": "away",
+      "event_id": "401862813",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
       "team_id": "2116",
       "team_name": "UCF Knights",
       "team_abbr": "UCF",
@@ -1369,6 +1304,19 @@
     },
     {
       "sport": "NCAAF",
+      "team_id": "2449",
+      "team_name": "North Dakota State Bison",
+      "team_abbr": "NDSU",
+      "opponent_id": "2638",
+      "opponent_name": "UTEP Miners",
+      "opponent_abbr": "UTEP",
+      "date": "2026-10-31T19:30Z",
+      "venue": "home",
+      "event_id": "401864531",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
       "team_id": "252",
       "team_name": "BYU Cougars",
       "team_abbr": "BYU",
@@ -1525,6 +1473,19 @@
     },
     {
       "sport": "NCAAF",
+      "team_id": "254",
+      "team_name": "Utah Utes",
+      "team_abbr": "UTAH",
+      "opponent_id": "2132",
+      "opponent_name": "Cincinnati Bearcats",
+      "opponent_abbr": "CIN",
+      "date": "2026-10-31T19:45Z",
+      "venue": "away",
+      "event_id": "401856848",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
       "team_id": "258",
       "team_name": "Virginia Cavaliers",
       "team_abbr": "UVA",
@@ -1534,6 +1495,19 @@
       "date": "2026-10-31T19:45Z",
       "venue": "away",
       "event_id": "401858284",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
+      "team_id": "167",
+      "team_name": "New Mexico Lobos",
+      "team_abbr": "UNM",
+      "opponent_id": "23",
+      "opponent_name": "San José State Spartans",
+      "opponent_abbr": "SJSU",
+      "date": "2026-10-31T20:00Z",
+      "venue": "away",
+      "event_id": "401864529",
       "source": "ESPN NCAAF scoreboard (unofficial)"
     },
     {
@@ -2227,6 +2201,19 @@
     },
     {
       "sport": "NCAAF",
+      "team_id": "2636",
+      "team_name": "UTSA Roadrunners",
+      "team_abbr": "UTSA",
+      "opponent_id": "2226",
+      "opponent_name": "Florida Atlantic Owls",
+      "opponent_abbr": "FAU",
+      "date": "2026-11-06T01:00Z",
+      "venue": "away",
+      "event_id": "401862817",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
       "team_id": "259",
       "team_name": "Virginia Tech Hokies",
       "team_abbr": "VT",
@@ -2301,6 +2288,19 @@
       "date": "2026-11-07T05:00Z",
       "venue": "away",
       "event_id": "401856744",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
+      "team_id": "248",
+      "team_name": "Houston Cougars",
+      "team_abbr": "HOU",
+      "opponent_id": "2132",
+      "opponent_name": "Cincinnati Bearcats",
+      "opponent_abbr": "CIN",
+      "date": "2026-11-07T05:00Z",
+      "venue": "home",
+      "event_id": "401856851",
       "source": "ESPN NCAAF scoreboard (unofficial)"
     },
     {
