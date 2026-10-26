@@ -1,6 +1,6 @@
 {
   "source": "ESPN public unofficial scoreboards",
-  "updated_at": "2026-10-26T18:04:12.305839+00:00",
+  "updated_at": "2026-10-26T19:14:58.552852+00:00",
   "upcoming": [
     {
       "sport": "Chile",
@@ -2227,19 +2227,6 @@
     },
     {
       "sport": "NCAAF",
-      "team_id": "245",
-      "team_name": "Texas A&M Aggies",
-      "team_abbr": "TA&M",
-      "opponent_id": "2579",
-      "opponent_name": "South Carolina Gamecocks",
-      "opponent_abbr": "SC",
-      "date": "2026-11-07T05:00Z",
-      "venue": "away",
-      "event_id": "401856744",
-      "source": "ESPN NCAAF scoreboard (unofficial)"
-    },
-    {
-      "sport": "NCAAF",
       "team_id": "248",
       "team_name": "Houston Cougars",
       "team_abbr": "HOU",
@@ -2353,6 +2340,19 @@
       "date": "2026-11-07T20:00Z",
       "venue": "home",
       "event_id": "401869936",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
+      "team_id": "245",
+      "team_name": "Texas A&M Aggies",
+      "team_abbr": "TA&M",
+      "opponent_id": "2579",
+      "opponent_name": "South Carolina Gamecocks",
+      "opponent_abbr": "SC",
+      "date": "2026-11-07T20:00Z",
+      "venue": "away",
+      "event_id": "401856744",
       "source": "ESPN NCAAF scoreboard (unofficial)"
     },
     {
