@@ -1,6 +1,6 @@
 {
   "source": "ESPN public unofficial scoreboards",
-  "updated_at": "2026-10-26T15:50:14.287447+00:00",
+  "updated_at": "2026-10-26T17:11:37.003879+00:00",
   "upcoming": [
     {
       "sport": "Chile",
@@ -2279,19 +2279,6 @@
     },
     {
       "sport": "NCAAF",
-      "team_id": "2771",
-      "team_name": "Merrimack Warriors",
-      "team_abbr": "MRMK",
-      "opponent_id": "154",
-      "opponent_name": "Wake Forest Demon Deacons",
-      "opponent_abbr": "WAKE",
-      "date": "2026-11-07T05:00Z",
-      "venue": "away",
-      "event_id": "401858290",
-      "source": "ESPN NCAAF scoreboard (unofficial)"
-    },
-    {
-      "sport": "NCAAF",
       "team_id": "309",
       "team_name": "Louisiana Ragin' Cajuns",
       "team_abbr": "UL",
@@ -2366,6 +2353,19 @@
       "date": "2026-11-07T20:00Z",
       "venue": "home",
       "event_id": "401869936",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
+      "team_id": "2771",
+      "team_name": "Merrimack Warriors",
+      "team_abbr": "MRMK",
+      "opponent_id": "154",
+      "opponent_name": "Wake Forest Demon Deacons",
+      "opponent_abbr": "WAKE",
+      "date": "2026-11-07T20:30Z",
+      "venue": "away",
+      "event_id": "401858290",
       "source": "ESPN NCAAF scoreboard (unofficial)"
     },
     {
