@@ -1,6 +1,6 @@
 {
   "source": "ESPN public unofficial scoreboards",
-  "updated_at": "2026-10-26T21:03:28.504936+00:00",
+  "updated_at": "2026-10-26T21:58:19.076092+00:00",
   "upcoming": [
     {
       "sport": "NFL",
@@ -2409,19 +2409,6 @@
     },
     {
       "sport": "NFL",
-      "team_id": "25",
-      "team_name": "San Francisco 49ers",
-      "team_abbr": "SF",
-      "opponent_id": "13",
-      "opponent_name": "Las Vegas Raiders",
-      "opponent_abbr": "LV",
-      "date": "2026-11-08T21:05Z",
-      "venue": "home",
-      "event_id": "401873047",
-      "source": "ESPN NFL scoreboard (unofficial)"
-    },
-    {
-      "sport": "NFL",
       "team_id": "34",
       "team_name": "Houston Texans",
       "team_abbr": "HOU",
@@ -2431,6 +2418,19 @@
       "date": "2026-11-08T21:05Z",
       "venue": "away",
       "event_id": "401873046",
+      "source": "ESPN NFL scoreboard (unofficial)"
+    },
+    {
+      "sport": "NFL",
+      "team_id": "25",
+      "team_name": "San Francisco 49ers",
+      "team_abbr": "SF",
+      "opponent_id": "13",
+      "opponent_name": "Las Vegas Raiders",
+      "opponent_abbr": "LV",
+      "date": "2026-11-08T21:25Z",
+      "venue": "home",
+      "event_id": "401873047",
       "source": "ESPN NFL scoreboard (unofficial)"
     },
     {
