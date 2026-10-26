@@ -1,6 +1,6 @@
 {
   "source": "ESPN public unofficial scoreboards",
-  "updated_at": "2026-10-26T17:11:37.003879+00:00",
+  "updated_at": "2026-10-26T18:04:12.305839+00:00",
   "upcoming": [
     {
       "sport": "Chile",
@@ -2110,13 +2110,26 @@
     },
     {
       "sport": "NCAAF",
+      "team_id": "2649",
+      "team_name": "Toledo Rockets",
+      "team_abbr": "TOL",
+      "opponent_id": "16",
+      "opponent_name": "Sacramento State Hornets",
+      "opponent_abbr": "SAC",
+      "date": "2026-11-04T05:00Z",
+      "venue": "away",
+      "event_id": "401866457",
+      "source": "ESPN NCAAF scoreboard (unofficial)"
+    },
+    {
+      "sport": "NCAAF",
       "team_id": "2117",
       "team_name": "Central Michigan Chippewas",
       "team_abbr": "CMU",
       "opponent_id": "2199",
       "opponent_name": "Eastern Michigan Eagles",
       "opponent_abbr": "EMU",
-      "date": "2026-11-04T05:00Z",
+      "date": "2026-11-05T00:30Z",
       "venue": "away",
       "event_id": "401866456",
       "source": "ESPN NCAAF scoreboard (unofficial)"
@@ -2129,22 +2142,9 @@
       "opponent_id": "2117",
       "opponent_name": "Central Michigan Chippewas",
       "opponent_abbr": "CMU",
-      "date": "2026-11-04T05:00Z",
+      "date": "2026-11-05T00:30Z",
       "venue": "home",
       "event_id": "401866456",
-      "source": "ESPN NCAAF scoreboard (unofficial)"
-    },
-    {
-      "sport": "NCAAF",
-      "team_id": "2649",
-      "team_name": "Toledo Rockets",
-      "team_abbr": "TOL",
-      "opponent_id": "16",
-      "opponent_name": "Sacramento State Hornets",
-      "opponent_abbr": "SAC",
-      "date": "2026-11-04T05:00Z",
-      "venue": "away",
-      "event_id": "401866457",
       "source": "ESPN NCAAF scoreboard (unofficial)"
     },
     {
