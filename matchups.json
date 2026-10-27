@@ -1,33 +1,7 @@
 {
   "source": "ESPN public unofficial scoreboards",
-  "updated_at": "2026-10-26T23:53:42.426396+00:00",
+  "updated_at": "2026-10-27T01:18:32.742864+00:00",
   "upcoming": [
-    {
-      "sport": "NFL",
-      "team_id": "21",
-      "team_name": "Philadelphia Eagles",
-      "team_abbr": "PHI",
-      "opponent_id": "6",
-      "opponent_name": "Dallas Cowboys",
-      "opponent_abbr": "DAL",
-      "date": "2026-10-27T00:15Z",
-      "venue": "home",
-      "event_id": "401873009",
-      "source": "ESPN NFL scoreboard (unofficial)"
-    },
-    {
-      "sport": "NFL",
-      "team_id": "6",
-      "team_name": "Dallas Cowboys",
-      "team_abbr": "DAL",
-      "opponent_id": "21",
-      "opponent_name": "Philadelphia Eagles",
-      "opponent_abbr": "PHI",
-      "date": "2026-10-27T00:15Z",
-      "venue": "away",
-      "event_id": "401873009",
-      "source": "ESPN NFL scoreboard (unofficial)"
-    },
     {
       "sport": "NCAAF",
       "team_id": "48",
@@ -1850,6 +1824,19 @@
     },
     {
       "sport": "NFL",
+      "team_id": "6",
+      "team_name": "Dallas Cowboys",
+      "team_abbr": "DAL",
+      "opponent_id": "22",
+      "opponent_name": "Arizona Cardinals",
+      "opponent_abbr": "ARI",
+      "date": "2026-11-01T18:00Z",
+      "venue": "home",
+      "event_id": "401873024",
+      "source": "ESPN NFL scoreboard (unofficial)"
+    },
+    {
+      "sport": "NFL",
       "team_id": "8",
       "team_name": "Detroit Lions",
       "team_abbr": "DET",
@@ -1950,6 +1937,19 @@
       "date": "2026-11-01T21:25Z",
       "venue": "home",
       "event_id": "401873033",
+      "source": "ESPN NFL scoreboard (unofficial)"
+    },
+    {
+      "sport": "NFL",
+      "team_id": "21",
+      "team_name": "Philadelphia Eagles",
+      "team_abbr": "PHI",
+      "opponent_id": "28",
+      "opponent_name": "Washington Commanders",
+      "opponent_abbr": "WSH",
+      "date": "2026-11-02T01:20Z",
+      "venue": "away",
+      "event_id": "401873035",
       "source": "ESPN NFL scoreboard (unofficial)"
     },
     {
